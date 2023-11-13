@@ -1,4 +1,4 @@
-# brand-personas
+# Customer Segmentation Redefined: The Impact of Decision Analysis in Marketing Strategies
 
 Decision analysis can employ systematic, quantitative, and qualitative methods to assess various marketing strategies and options. This detailed analysis covers a broad scope from finding the best ways to communicate  to your customers to choosing the right channels to reach them. 
 
