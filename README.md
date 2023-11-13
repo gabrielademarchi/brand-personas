@@ -1,0 +1,7 @@
+# brand-personas
+
+Decision analysis can employ systematic, quantitative, and qualitative methods to assess various marketing strategies and options. This detailed analysis covers a broad scope from finding the best ways to communicate  to your customers to choosing the right channels to reach them. 
+
+It also involves sorting them into groups with similar traits. This helps in making marketing plans that suit each group's unique needs. From this grouping, we create brand personas, going beyond basic details like age to understand what each group wants, the problems they face, and what makes them different.  Take the example of LATAM Airlines Group's rebranding, where two personas, Olivia and Romeo, were created. Olivia represents younger travelers wanting to explore the world during vacations, and Romeo is an executive buying last-minute tickets for quick business trips. This grouping not only affects how they talk to customers but also how the company is organized, with separate areas for business and regular customers.
+
+To show how decision analysis can use data for customer segmentation and influence marketing strategy, we'll create synthetic transactional data for a fictional beauty brand and transform it into a customer-centric dataset. After that, we'll use an unsupervised learning algorithm (K-means) to group the data into clusters with clear characteristics. Finally, we'll use these groups to craft buyer personas for our imaginary brand.
